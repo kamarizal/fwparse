@@ -1,0 +1,8 @@
+[Output]
+C:\firewall.csv
+
+[Juniper Firewall]
+JUNIPERFW1 = C:\juniperfw1.cfg
+
+[Fortinet Firewall]
+FORTINETFW1 = C:\fortinetfw1.cfg
